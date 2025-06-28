@@ -9,7 +9,7 @@ function UserInfo() {
     dob: "1995-08-15",
     location: "Punjab, India",
     email: "jassi@example.com",
-    image: "https://randomuser.me/api/portraits/men/75.jpg"
+    image: "./jassi.jpg"
   };
 
   return (
