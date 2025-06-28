@@ -8,7 +8,7 @@ function UserInfo() {
     age: 30,
     dob: "1995-08-15",
     location: "Punjab, India",
-    email: "jassi@example.com",
+    email: "jassi@itbrand.com",
     image: "./jassi.jpg"
   };
 
