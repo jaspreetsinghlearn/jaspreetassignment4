@@ -4,6 +4,8 @@ import Home from './pages/Home';
 import About from './pages/About';
 import UserInfo from './pages/UserInfo';
 import NotFound from './pages/NotFound';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
   return (
